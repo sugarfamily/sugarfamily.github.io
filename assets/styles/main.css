@@ -57,3 +57,13 @@ section.wr-intro h1 {
 	letter-spacing: 10px;
 	text-align: center;
 }
+
+@media (max-width: 576px) {
+	section.wr-intro p {
+		font-size: 0.5rem;
+	}
+	section.wr-intro h1 {
+		font-size: 2rem;
+	}
+}
+
